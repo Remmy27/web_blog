@@ -1,0 +1,35 @@
+body {
+    background-color: #fff;
+}
+
+#login-form {
+
+}
+
+.page-form {
+    margin-top: 50px;
+    max-width: 480px;
+    background-color: #FFF;
+    padding: 15px;
+    border-radius: 10px;
+    border: solid 1px #c6c6c6;
+
+}
+
+.home {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.logout{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+
+
+
+
